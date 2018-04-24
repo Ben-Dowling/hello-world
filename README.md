@@ -1,4 +1,4 @@
 # hello-world
 For testing and learning git
 
-CHanges
+Changes
